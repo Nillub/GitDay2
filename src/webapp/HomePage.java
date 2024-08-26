@@ -9,6 +9,6 @@ public class HomePage {
 
     //new more things
 
-    logo
+    //logo
 
 }
